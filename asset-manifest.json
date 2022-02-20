@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactPaint/static/css/main.78b085f8.css",
+    "main.js": "/reactPaint/static/js/main.a525faa3.js",
+    "static/js/787.856af6a5.chunk.js": "/reactPaint/static/js/787.856af6a5.chunk.js",
+    "index.html": "/reactPaint/index.html",
+    "main.78b085f8.css.map": "/reactPaint/static/css/main.78b085f8.css.map",
+    "main.a525faa3.js.map": "/reactPaint/static/js/main.a525faa3.js.map",
+    "787.856af6a5.chunk.js.map": "/reactPaint/static/js/787.856af6a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b085f8.css",
+    "static/js/main.a525faa3.js"
+  ]
+}
